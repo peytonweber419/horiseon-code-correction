@@ -31,3 +31,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Screenshot
+![Screenshot 2023-09-28 180332](https://github.com/peytonweber419/horiseon-code-correction/assets/144742645/f10a1863-e4f9-477b-9ccd-0f89cd68e272)
