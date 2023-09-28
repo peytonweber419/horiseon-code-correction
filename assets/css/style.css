@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/*Sets the background color for the webpage*/
 body {
     background-color: #d9dcd6;
 }
 
+/*formatting and styling the header with backup fonts*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/*stylizes the header*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*Makes the "seo" slightly darker than the rest of "Horiseon"*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Formatting and stylizing the navigation options*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +37,12 @@ body {
     font-size: 20px;
 }
 
+/*Stylizing the listed navs*/
 .header nav ul {
     list-style-type: none;
 }
 
+/*Displaying the navs horizontally with inline*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -46,10 +53,12 @@ a {
     text-decoration: none;
 }
 
+/*Setting font size for text*/
 p {
     font-size: 16px;
 }
 
+/*formatting the large background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +68,26 @@ p {
     background-position: center;
 }
 
+/*positions the 1st and 3rd photos in the article*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*positions the 2nd photo in the article*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*formatting the text in the sections of article*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*v Formatting for everything in the aside including images and text v*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +201,7 @@ p {
     font-size: 36px;
 }
 
+/*formatting and stylizing the footer at the bottom of the page*/
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +209,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/*stating the size of the footer*/
+.footer h4 {
     font-size: 20px;
 }
