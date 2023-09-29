@@ -1,13 +1,7 @@
 # horiseon-code-correction
 
 ## Description
-I have refactored the code to fit the following criteria-
-### -Meets accessibility standards
-### -Contains semantic HTML elements
-### -HTML elements follow a logical structure independent of styling and positioning
-### -Accessible alt attributes on important image elements
-### -Heading attributes fall in sequential order
-### -Title element is concise and descriptive
+I have refactored the code for Horiseon's webpage and included it in this repository.
  
 ## User Story
 AS A marketing agency
@@ -31,7 +25,7 @@ SO THAT our own site is optimized for search engines
 https://peytonweber419.github.io/horiseon-code-correction/
 
 ## Installation
-Install this application by cloning the code into your terminal for the respective repository.
+N/A
 
 ## Usage
 Use the navigation bar to navigate through different sections of the webpage.
