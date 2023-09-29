@@ -2,12 +2,12 @@
 
 ## Description
 I have refactored the code to fit the following criteria-
- -Meets accesibility standards
- -Contains semantic HTML elements
- -HTML elements follow a logical structure independent of styling and positioning
- -Accessible alt attributes on important image elements
- -Heading attributes fall in sequential order
- -Title element is concise and descriptive
+### -Meets accesibility standards
+### -Contains semantic HTML elements
+### -HTML elements follow a logical structure independent of styling and positioning
+### -Accessible alt attributes on important image elements
+### -Heading attributes fall in sequential order
+### -Title element is concise and descriptive
  
 ## User Story
 AS A marketing agency
