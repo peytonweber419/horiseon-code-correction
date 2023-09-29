@@ -2,7 +2,7 @@
 
 ## Description
 I have refactored the code to fit the following criteria-
-### -Meets accesibility standards
+### -Meets accessibility standards
 ### -Contains semantic HTML elements
 ### -HTML elements follow a logical structure independent of styling and positioning
 ### -Accessible alt attributes on important image elements
